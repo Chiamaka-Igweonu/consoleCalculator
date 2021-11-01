@@ -1,0 +1,14 @@
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.csproj.AssemblyReference.cache
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.AssemblyInfoInputs.cache
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.AssemblyInfo.cs
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.exe
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.deps.json
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.runtimeconfig.json
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.runtimeconfig.dev.json
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.dll
+C:\Users\23470\source\repos\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.pdb
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.dll
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.pdb
+C:\Users\23470\source\repos\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.genruntimeconfig.cache
